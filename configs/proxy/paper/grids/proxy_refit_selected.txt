@@ -1,0 +1,4 @@
+--config configs/proxy/paper/refits/refit_04.json
+--config configs/proxy/paper/refits/refit_02.json
+--config configs/proxy/paper/refits/refit_05.json
+--config configs/proxy/paper/refits/refit_01.json

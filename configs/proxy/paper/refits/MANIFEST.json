@@ -1,0 +1,37 @@
+[
+  {
+    "file": "refit_01.json",
+    "source_generated_config": "proxy_tune_lr2e-04_hd160_do0.15_nl3_wd3e-05_mvhpv2_cw0.1_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job15_cfg2_20260227_101327_refitfull.json",
+    "model_name": "proxy_tune_lr2e-04_hd160_do0.15_nl3_wd3e-05_mvhpv2_cw0.1_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job15_cfg2_20260227_101327_refitfull"
+  },
+  {
+    "file": "refit_02.json",
+    "source_generated_config": "proxy_tune_lr3e-04_hd160_do0.15_nl3_wd1e-05_mvhpv2_cw0.1_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job37_cfg3_20260227_164724_refitfull.json",
+    "model_name": "proxy_tune_lr3e-04_hd160_do0.15_nl3_wd1e-05_mvhpv2_cw0.1_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job37_cfg3_20260227_164724_refitfull"
+  },
+  {
+    "file": "refit_03.json",
+    "source_generated_config": "proxy_tune_lr3e-04_hd160_do0.16_nl2_wd1e-04_mvhpv2_cw0.2_cost0.01_ew0.00_sku8_br6_cemb16_op8_dcemb96_thNA_job29_cfg3_20260225_140744_refitfull.json",
+    "model_name": "proxy_tune_lr3e-04_hd160_do0.16_nl2_wd1e-04_mvhpv2_cw0.2_cost0.01_ew0.00_sku8_br6_cemb16_op8_dcemb96_thNA_job29_cfg3_20260225_140744_refitfull"
+  },
+  {
+    "file": "refit_04.json",
+    "source_generated_config": "proxy_tune_lr3e-04_hd160_do0.20_nl3_wd1e-05_mvhpv2_cw0.1_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job42_cfg1_20260227_164241_refitfull.json",
+    "model_name": "proxy_tune_lr3e-04_hd160_do0.20_nl3_wd1e-05_mvhpv2_cw0.1_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job42_cfg1_20260227_164241_refitfull"
+  },
+  {
+    "file": "refit_05.json",
+    "source_generated_config": "proxy_tune_lr3e-04_hd160_do0.20_nl3_wd1e-05_mvhpv2_cw0.2_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job42_cfg0_20260227_161451_refitfull.json",
+    "model_name": "proxy_tune_lr3e-04_hd160_do0.20_nl3_wd1e-05_mvhpv2_cw0.2_cost0.01_ew0.00_sku8_br6_cemb8_op8_dcemb64_thNA_job42_cfg0_20260227_161451_refitfull"
+  },
+  {
+    "file": "refit_06.json",
+    "source_generated_config": "proxy_tune_lr4e-04_hd224_do0.22_nl2_wd1e-04_mvhpv2_cw0.2_cost0.01_ew0.00_sku8_br6_cemb16_op8_dcemb64_thNA_job28_cfg4_20260225_150952_refitfull.json",
+    "model_name": "proxy_tune_lr4e-04_hd224_do0.22_nl2_wd1e-04_mvhpv2_cw0.2_cost0.01_ew0.00_sku8_br6_cemb16_op8_dcemb64_thNA_job28_cfg4_20260225_150952_refitfull"
+  },
+  {
+    "file": "refit_07.json",
+    "source_generated_config": "proxy_tune_lr5e-04_hd160_do0.20_nl3_wd5e-05_mvhpv2_cw0.1_cost0.02_ew0.00_sku8_br6_cemb32_op16_dcemb64_thNA_job16_cfg6_20260225_122601_refitfull.json",
+    "model_name": "proxy_tune_lr5e-04_hd160_do0.20_nl3_wd5e-05_mvhpv2_cw0.1_cost0.02_ew0.00_sku8_br6_cemb32_op16_dcemb64_thNA_job16_cfg6_20260225_122601_refitfull"
+  }
+]

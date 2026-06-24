@@ -1,0 +1,130 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# profiling
+.prof
+*.prof
+*.pstats
+cachegrind.out.*
+
+# Cython debug symbols
+cython_debug/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# PDM
+__pypackages__/
+
+# pyright
+typings/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code test history
+.history/
+
+catboost_info/
+logs/
+.cursorrules
+
+# Local/generated data artifacts. Track only small public calibration metadata.
+data/*
+!data/
+!data/params/
+data/params/*
+!data/params/calibration_dist_bins_km.json
+!data/params/hubs.csv
+!data/params/major_us_cities.csv
+!data/params/real_cost_models_cs.csv
+!data/params/real_ratios_cs.csv
+!data/params/dc_carrier_eligibility.csv
+data_local/
+slurm/
+/grid_proxy*.txt
+grid_proxy*.txt.ready.*
+configs/proxy/grids/*.fail.*
+configs/proxy/grids/*.tmp.*
+configs/proxy/grids/*.lock.*
+configs/proxy/grids/*.ready.*
+
+.github/
+.codex/
+
+archive/
